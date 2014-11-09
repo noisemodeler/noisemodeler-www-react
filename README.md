@@ -1,4 +1,4 @@
-Start med
+Start with
 
 ```
 npm install
@@ -7,11 +7,11 @@ npm install -g gulp
 gulp watch
 ```
 
-Så i en annen terminal:
+In another terminal
 
 ```
 node app.js
 ```
 
-Gå til http://localhost:9999/
+This will start the server at http://localhost:9999
 
