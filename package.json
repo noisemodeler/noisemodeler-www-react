@@ -18,7 +18,7 @@
     "browserify": "^5.11.0",
     "del": "^0.1.2",
     "esnext": "^0.10.0",
-    "gulp": "^3.8.7",
+    "gulp": "^3.8.10",
     "gulp-myth": "^1.0.0",
     "gulp-react": "^1.0.0",
     "gulp-rename": "^1.2.0",
