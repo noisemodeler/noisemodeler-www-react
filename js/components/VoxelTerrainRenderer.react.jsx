@@ -41,10 +41,6 @@ var VoxelTerrainRenderer = React.createClass({
         return <canvas width="400" height="300">Get a real browser!</canvas>;
     },
 
-    _onChange: function() {
-        this.setState(getStateFromStores());
-    }
-
 });
 
 module.exports = VoxelTerrainRenderer;
